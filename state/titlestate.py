@@ -3,7 +3,7 @@ import pygame
 from .state import State
 from state.playstate import PlayState
 
-class MainMenuState(State):
+class TitleState(State):
     def __init__(self):
         super().__init__()
 

@@ -51,5 +51,5 @@ class Game:
 
             pygame.display.flip()
 
-from state.mainmenustate import MainMenuState
-Game(MainMenuState()).begin()
+from state.titlestate import TitleState
+Game(TitleState()).begin()
