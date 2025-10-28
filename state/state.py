@@ -1,5 +1,7 @@
 class State:
-    def __init__(self):
+    def __init__(self, persistent_data = None):
+        self.persistent_data = persistent_data
+        
         self.next_state = None
         self.done = False
 
