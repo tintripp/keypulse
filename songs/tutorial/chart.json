@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "name": "the alphabet",
+    "bpm": 120
+  },
+  
+  "notes": [
+    {"char":"q","time":2000,"lifespan":0,"x":100,"y":100},
+    {"char":"w","time":4000,"lifespan":1000,"x":100,"y":100},
+    {"char":"o","time":6000,"lifespan":1000,"x":100,"y":100},
+    {"char":"p","time":8000,"lifespan":1000,"x":100,"y":100},
+    {"char":"o","time":10000,"lifespan":0,"x":100,"y":100}
+  ]
+}
+

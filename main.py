@@ -51,5 +51,5 @@ class Game:
 
             pygame.display.flip()
 
-from state.titlestate import TitleState
+from src.state.titlestate import TitleState
 Game(TitleState()).begin()
